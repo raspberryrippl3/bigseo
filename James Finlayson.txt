@@ -1,0 +1,45 @@
+replied to a thread:
+Love this question. It’s super important. Most agencies do a terrible job at it.On-Site Basics:
+Make sure proper tracking’s in place. Conduct an analytics audit to see:
+
+    is analytics working
+    is it present on all pages
+    is there any double-counting going on
+    are there cookie opt-in causing issues
+    are there events setup to track micro as well as macro conversions
+    what attribution model’s being used? Generally I find that people have very firm opinions on this, but in reality it actually doesn’t matter all that much (especially when you’re talking in terms of %’age uplifts). Just make sure it’s agreed and setup correctly.
+    Is there offline data that can be fed into GA; if conversions happen offline make sure that you’re tagging leads so that you can import offline conversions - and that there’s a process to do so.
+
+Off-Site Basics:
+
+    do you have access to GSC, GA and Bing Webmaster Tools? 
+    is your rank tracking set up with a reasonable number of keywords that are representative of what’s important to the client? I recommend at least 1 non-brand keyword per page that’s looking to send decent traffic. Pull your top keywords from GSC and make sure that you’re tracking all of the ones from there that matter.
+    Are you using a rank tracker that solves for not-provided (I use SEOmonitor)? Once you put that in place you can show revenue increases on a per-keyword basis, which is incredible for quarterly reviews.
+
+Alignment:
+For each client, separately, do you have rabid agreement with them as to:
+
+    what metrics they need to move to hit their targets
+    what their expectations are from you to contribute towards those
+    what further metrics, or goals, if hit, will make them look like superstars to their boss
+
+For this try to stay away from SEO metrics unless it seems to be all they care aboutForecasting
+
+    put a forecast in place that layers rankings to traffic ultimately to revenue (or their primary goal as found in the alignment section)
+    make sure that the client is onboard/excited by that forecast
+    in every client call refer back to the forecast and see where you are against it. Use it as a reason to pivot if need be, use it as a reason to increase investment if you’re killing it. Constantly talk about the forecast because hitting that forecast is hitting the goals that they care about.
+
+Reporting
+Setup some Looker Studio dashboards that:
+
+    split brand and non-brand traffic; and
+    show how you’re doing against the forecast
+    give the detail on keyword rankings etc if they want it, but encourage them to concentrate on the first two (split this out into a separate page). This is about being transparent, but keeping them concentrating on the things that really matter.
+
+Report on monthly ROI, but keep the concentration on yearly performance. Remember the forecast =’s the goals.Clever other things to try
+
+    if the client has stores are they using gate tech to track the amount of customers that go in? If so see if you can correlate organic traffic with that gate tech so you have a baseline of something like ‘for every 100 people that go on the website, people in store increases by 20’ - you can then use this to show the full value of what you’re doing by showing the value of those extra conversions.
+    speak to other teams. The CRM team probably know the value of an email subscriber - make sure you’re tracking how many of these signups come from organic. If you’re sharing insights with the PPC team make sure you know what happened to those insights; maybe you passed over a strategy that generated an extra £100k that year. How much are the wider marketing team paying for their OOH or similar and how many views are they expecting for that? Use that data to understand how much an impression is worth to them and put a value to any increase in impressions that you’re driving rather than just treating it as a leading measure.
+    Report on competitor changes. SEO’s a zero sum game, so if you’ve increased their revenue by X then you’ve reduced revenue to competitor Y and Z by the same amount. Show that you’re eroding competitors’ positions, potentially forcing them to invest in lower ROI marketing activities.
+
+I’ll stop here because that’s already a pretty long answer - but it’s so so important to get right and, as an industry, we could be doing such a better job than we currently are (edited) 
