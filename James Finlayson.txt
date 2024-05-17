@@ -1,3 +1,5 @@
+https://bigseoreddit.slack.com/archives/C4DDUT2AH/p1713949073149849?thread_ts=1713923102.436979&cid=C4DDUT2AH
+
 question:
 I’m trying to put together ways for our team to more concretely tie client’s ROI from our agency’s SEO work (especially on the non-branded side, which naturally converts at lower rates than branded and is trickier to identify ROI than things like Paid Search). I’ve done some initial attempts looking at CVR from primarily-branded pages vs. primarily non-branded pages but this doesn’t feel super actionable when applied to current or projected data. A couple of clients also sell high-ticket products that users don’t typically search a question, come across some of our content, and immediately convert - it usually starts with an organic non-branded session and then they’ll come back via Direct or Paid Search and actually convert. The Advertising > Attribution Paths report in GA4 kind of shows this but I’m curious if anyone else has similar sites that they’ve found some clever ways of measuring impact from non-branded traffic for clients really interested in their ROI?
 
